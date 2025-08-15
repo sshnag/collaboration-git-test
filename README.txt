@@ -1,6 +1,6 @@
 This is testing 1
 GIT TESTING
-This is testing 1. 
+Testing Git conflit 
 This is testing2. 
 
 Hello buddy!
